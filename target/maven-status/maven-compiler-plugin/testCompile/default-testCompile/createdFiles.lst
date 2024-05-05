@@ -1,0 +1,4 @@
+com\Atenciones\service\AtencionMedicaServiceTest.class
+com\Atenciones\controller\AtencionMedicaControllerTest.class
+com\Atenciones\controller\PacienteControllerTest.class
+com\Atenciones\service\PacienteServiceTest.class

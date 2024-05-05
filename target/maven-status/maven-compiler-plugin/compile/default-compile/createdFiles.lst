@@ -1,0 +1,13 @@
+com\Atenciones\service\PacienteService.class
+com\Atenciones\controller\PacienteController.class
+com\Atenciones\service\AtencionMedicaService.class
+com\Atenciones\AtencionesApplication.class
+com\Atenciones\service\AtencionMedicaServiceImpl.class
+com\Atenciones\controller\AtencionMedicaController$ErrorResponse.class
+com\Atenciones\model\AtencionMedica.class
+com\Atenciones\model\Paciente.class
+com\Atenciones\controller\AtencionMedicaController.class
+com\Atenciones\repository\PacienteRepository.class
+com\Atenciones\repository\AtencionMedicaRepository.class
+com\Atenciones\controller\PacienteController$ErrorResponse.class
+com\Atenciones\service\PacienteServiceImpl.class
